@@ -2,3 +2,4 @@ llama-index
 qdrant_client
 torch
 transformers
+llama-index-llms-ollama
