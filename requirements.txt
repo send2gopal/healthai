@@ -1,5 +1,9 @@
 llama-index
+llama-index-llms-ollama
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-huggingface
 qdrant_client
 torch
-transformers
-llama-index-llms-ollama
+pydantic[email]
+docx2txt
